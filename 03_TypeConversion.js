@@ -6,4 +6,8 @@ console.log(num);
 let str= String(score);
 console.log(typeof str);
 console.log(str);
+let bool=true;
+const myDate= new Date();
+console.log(myDate.toLocaleString())
+
 
